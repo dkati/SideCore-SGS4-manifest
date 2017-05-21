@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="github"
+           fetch="https://github.com/" />
+	   
+   <project path="sidecore" name="dkati/SideCore-CM-SGS4" remote="github" revision ="cm-14.1 />
+   
+</manifest>
